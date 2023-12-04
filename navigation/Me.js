@@ -1,5 +1,5 @@
 import React from 'react'
-import {View, Text, Image, StyleSheet, ScrollView, backgroundColor} from 'react-native';
+import {View, Text, Image, StyleSheet, ScrollView} from 'react-native';
 import { Colors } from 'react-native/Libraries/NewAppScreen'
 
 const Me = () => {
@@ -12,6 +12,8 @@ const Me = () => {
       tempat fotocopy dan jilid yang berada di sekitar UGM.</Text>
       <Text style={styles.card3}>CoBin membantu mahasiswa untuk mempermudah dalam menyelesaikan tugas mereka yang membutuhkan
       scan dokumen, print, dan jilid lembaran menjadi sebuah buku.</Text>
+      <Text style={styles.card4}>CoBin juga membantu pelaku usaha percetakan fotocopy & jilid
+      untuk mempublikasi toko mereka dengan fitur "Add Data" dengan memasukkan informasi mengenai nama toko, jam operasional, dan titik koordinat.</Text>
       <Text style={styles.Title}>Fitur CoBin</Text>
       <Text style={styles.card2}>CoBin memiliki beberapa fitur yaitu daftar tempat fotocopy & jilid (dilengkapi dengan informasi
       jam operasional dan alamat), peta titik lokasi tempat fotocopy & jilid beserta pop-up (nama tempat & jam operasional), 
@@ -78,11 +80,29 @@ const styles = StyleSheet.create({
   },
   card3: {
     color: "black",
-    textAlign: "center",
+    textAlign: "justify",
     flexDirection: 'row',
     padding: 20,
     borderRadius: 5,
     backgroundColor: Colors.pink,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 1,
+      height: 1,
+    },
+    shadowOpacity: 0.20,
+    shadowRadius: 1.41,
+    elevation: 2,
+    marginHorizontal: 5,
+    marginVertical: 5,
+  },
+  card4: {
+    color: "black",
+    textAlign: "justify",
+    flexDirection: 'row',
+    padding: 20,
+    borderRadius: 5,
+    backgroundColor: Colors.yellow,
     shadowColor: '#000',
     shadowOffset: {
       width: 1,
