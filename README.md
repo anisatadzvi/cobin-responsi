@@ -7,11 +7,12 @@ CoBin (PhotoCopy & Binding) adalah aplikasi mobile berbasis WebGIS yang memberik
 
 ## Komponen Pembangun Produk
 1. React Native
-2. Leaflet JS
-3. Font Awesome 5
-4. Google Spreadsheet
-5. Apps Script
-6. GitHub Pages
+2. HTML, JS, JSON
+3. Leaflet JS
+4. Font Awesome 5
+5. Google Spreadsheet
+6. Apps Script
+7. GitHub Pages
 
 ## Sumber Data
 1. Data Koordinat Google Maps
