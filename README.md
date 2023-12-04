@@ -23,3 +23,4 @@ CoBin memiliki manfaat bagi mahasiswa dan para pelaku usaha percetakan fotocopy 
 4. Gambar Google
 
 ## Tampilan Aplikasi
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/472a44f0-0865-4b13-b609-6493a4c13b26)
