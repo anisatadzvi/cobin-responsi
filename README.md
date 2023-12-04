@@ -20,7 +20,7 @@ CoBin memiliki manfaat bagi mahasiswa dan para pelaku usaha percetakan fotocopy 
 1. Data Koordinat Google Maps
 2. Data Alamat
 3. Data Jam Operasional
-4. Gambar Google
+4. Gambar 
 
 ## Tampilan Aplikasi
 **HOME**
