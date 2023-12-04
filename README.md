@@ -1,4 +1,4 @@
-# CoBin (PhotoCopy & Binding)
+## CoBin (PhotoCopy & Binding)
 
 Aplikasi Persebaran Tempat Fotocopy dan Jilid di Sekitar Universitas Gadjah Mada.
 
