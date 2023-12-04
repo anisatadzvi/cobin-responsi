@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Tadzkiah",
+      "nim": "20/481137/SV/19735",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "cat",
+      "color": "#4E4FEB"
+    },
+    {
+      "nama": "Annisya",
+      "nim": "481137",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "blue",
+      "icon": "umbrella",
+      "id": 3
+    },
+    {
+      "nama": "Annisya Tadzkiah",
+      "nim": "21/481137/SV/19735",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "green",
+      "icon": "user-graduate",
+      "id": 4
+    }
+  ]
+}
