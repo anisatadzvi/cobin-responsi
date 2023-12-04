@@ -4,7 +4,7 @@ Aplikasi Persebaran Tempat Fotocopy dan Jilid di Sekitar Universitas Gadjah Mada
 
 ## Deskripsi Produk
 CoBin (PhotoCopy & Binding) adalah aplikasi mobile berbasis WebGIS yang memberikan informasi mengenai persebaran toko fotocopy dan jilid yang berada di sekitar Universitas Gadjah Mada. Aplikasi ini memiliki beberapa fitur yaitu:
-1. Home (daftar/list nama toko, jam operasional, dan alamat)
+1. Home (gambar, daftar/list nama toko, jam operasional, dan alamat)
 2. Peta Interaktif (marker pop-up informasi nama toko dan jam operasional)
 3. Tambah Data
 4. Portofolio Developer
